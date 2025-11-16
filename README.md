@@ -1,14 +1,5 @@
 # About Me
- I'm CharlieDoesStuff, a college student that makes memes.
-
-🔭 I’m currently working on Corkscrew
-
-🌱 I’m currently learning Unity
-
-👯 I’m looking to collaborate on @Badgerworks-Brewery
-
-LONG LIVE BRITANIA!!!!
-
+ I'm Charlie, a college student.
  
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=charlieduzstuf&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
